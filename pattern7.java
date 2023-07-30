@@ -1,0 +1,2 @@
+public class pattern7 {
+}
